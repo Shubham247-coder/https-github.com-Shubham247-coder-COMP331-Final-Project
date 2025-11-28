@@ -1,0 +1,15 @@
+UNIVERSITY OF THE FRASER VALLEY
+
+COMP/STAT 331 – Data Quality
+
+FINAL PROJECT REPORT
+
+Title: Data Mining Quality & Bias Analysis of the Adult Income Dataset
+
+Student Name: Shubham Mali
+Student ID: [Your Student ID]
+Program: Post-Baccalaureate Diploma in Business Analytics
+
+Instructor: Amir Daneshpajouh
+
+Date: December 4, 2025
