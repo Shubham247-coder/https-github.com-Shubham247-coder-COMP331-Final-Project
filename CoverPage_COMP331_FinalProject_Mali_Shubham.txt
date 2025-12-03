@@ -7,9 +7,9 @@ FINAL PROJECT REPORT
 Title: Data Mining Quality & Bias Analysis of the Adult Income Dataset
 
 Student Name: Shubham Mali
-Student ID: [Your Student ID]
+Student ID: 300217862
 Program: Post-Baccalaureate Diploma in Business Analytics
 
-Instructor: Amir Daneshpajouh
+Instructor: Dr.Amir Daneshpajouh
 
-Date: December 4, 2025
+Date: December 3, 2025
